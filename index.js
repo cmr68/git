@@ -1,7 +1,7 @@
 // • En el fichero index.js (fichero de librería):
 // - Declarar las funciones de la calculadora por separado (suma, resta, producto, división)
 
-let suma = (x,y) => x+y;
+let suma = (x,y,z) => x+y+z;
 let resta = (x,y) => x-y;
 let producto = (x,y) => x*y;
 let division = (x,y) => x/y;
